@@ -15,10 +15,9 @@
 - CSS
 
 ### `Goals`
-- git gud.
-- crawl my way to fluency in the convoluted hell that is web design.
-- try to learn java
-- contribute to FOSS projects
+- Crawl my way to fluency in the convoluted hell that is web design.
+- Try to learn java
+- Contribute to FOSS projects
 
 ### `Tools I Use`
 - [`Windows 10`](https://www.microsoft.com/en-us/windows/get-windows-10) 
