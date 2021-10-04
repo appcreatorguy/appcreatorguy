@@ -4,8 +4,8 @@
 **appcreatorguy/appcreatorguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on: [tejmen/bordertale](https://github.com/tejmen/bordertale)
-- 🌱 I’m currently learning C#<br>
+- 🔭 I’m currently working on: Java Game Dev
+- 🌱 I’m currently learning Java
 - 😄 Pronouns: He/Him
 
 ### `Languages`
@@ -13,10 +13,10 @@
 - C#
 - HTML
 - CSS
+- Java (Nearly!)
 
 ### `Goals`
-- Crawl my way to fluency in the convoluted hell that is web design.
-- Try to learn java
+- Learn java
 - Contribute to FOSS projects
 
 ### `Tools I Use`
@@ -33,7 +33,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appcreatorguy&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=appcreatorguy&theme=nord)](https://git.io/streak-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tejmen&repo=bordertale&show_owner=true&show_icons=true&theme=nord)](https://github.com/tejmen/bordertale)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
