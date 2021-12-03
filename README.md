@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on: Java Game Dev
 - 🌱 I’m currently learning Java
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: They/Them
 
 ### `Languages`
 - [Python](https://github.com/python/cpython)
@@ -32,8 +32,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=appcreatorguy&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=appcreatorguy&layout=compact&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=appcreatorguy&theme=nord)](https://git.io/streak-stats)
-<!--
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=appcreatorguy&theme=nord)](https://git.io/streak-stats)<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
