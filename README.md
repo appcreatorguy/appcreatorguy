@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on: Java Game Dev
 - 🌱 I’m currently learning Java
-- 😄 Pronouns: They/Them
+- 😄 Pronouns: [They/Them](https://pronoun.is/he/:or/they/:or/she/)
 
 ### `Languages`
 - [Python](https://github.com/python/cpython)
