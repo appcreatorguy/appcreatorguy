@@ -4,8 +4,8 @@
 **appcreatorguy/appcreatorguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on: Java Game Dev
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on: Android App Dev
+- 🌱 I’m currently learning: Figma
 - 😄 Pronouns: [They/Them](https://pronoun.is/he/:or/they/:or/she/)
 
 ### `Languages`
@@ -13,10 +13,9 @@
 - C#
 - HTML
 - CSS
-- Java (Nearly!)
+- Java
 
 ### `Goals`
-- Learn java
 - Contribute to FOSS projects
 
 ### `Tools I Use`
